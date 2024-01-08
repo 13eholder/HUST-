@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "common.h": "c",
+        "stdio.h": "c",
+        "inet.h": "c",
+        "audio_util.h": "c"
+    }
+}
